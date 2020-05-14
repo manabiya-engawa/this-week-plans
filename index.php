@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>今週の予定</title>
 
     <style>
         @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
@@ -28,8 +28,8 @@
     <h1>今週の予定</h1>
     <div>
         <ul>
-            <li>テスト</li>
-            <li>テスト</li>
+            <li>バーチャル縁側オープン！ 遊びにきてね！</li>
+            <li>現地のオープンはただいま準備中です！</li>
         </ul>
     </div>
 </body>
